@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//SmallestThree class to check which number is the largest among the 3
+//LargestThree class to check which number is the largest among the 3
 
 class LargestThree{
 	public static void main(String[] args){
