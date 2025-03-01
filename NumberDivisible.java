@@ -16,5 +16,7 @@ class NumberDivisible{
 		
 		//Print the output
 		System.out.println("Is the number " + number + " divisible by 5? " + check);
+		
+		scan.close(); // close the scanner object
 	}
 }
