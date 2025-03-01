@@ -1,4 +1,4 @@
-// FactorialFor class to find the factorial of a number using a for loop
+// FactorialFor class to find factorial of a number using a for loop
 import java.util.Scanner;
 
 class FactorialFor {
