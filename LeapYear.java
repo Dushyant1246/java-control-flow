@@ -1,4 +1,4 @@
-// class LeapYear to check if a year is a Leap Year
+// class LeapYear to check if a year is a Leap Year using single if statement
 import java.util.Scanner;
 
 public class LeapYear {
